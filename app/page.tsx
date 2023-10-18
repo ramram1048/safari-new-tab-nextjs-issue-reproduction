@@ -1,4 +1,3 @@
-/** Add your relevant code here for the issue to reproduce */
-export default function Home() {
-  return null
+export default function MainPage() {
+  return <p className="main">Main page</p>;
 }

@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  flex: row wrap;
+  gap: 16px;
+}
+
+a {
+  display: block;
+}
+
+.main {
+  background-color: #eea;
+}
+.cat {
+  background-color: #eae;
+}
+.dog {
+  background-color: #aee;
+}
